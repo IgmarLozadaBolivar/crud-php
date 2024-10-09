@@ -1,0 +1,30 @@
+:root {
+    color-scheme: dark light;
+}
+
+nav {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+input[type=button],
+input[type=submit] {
+    background-color: #524ED2;
+    border-color: #524ED2;
+}
+
+input[type=button]:hover {
+    background-color: #3838AB;
+    border-color: #3838AB;
+}
+
+blockquote {
+    padding-left: 30px;
+}
+
+main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
